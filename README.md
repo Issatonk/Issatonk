@@ -5,9 +5,5 @@ I am a c# backend developer interested in developing web and cross-platform appl
 - 🌱 I’m currently learning docker
 - 📫 How to reach me: issatonk@gmail.com
 
-# AuctionWeb
-Проект по ООП
 
-## Screnshots
 
-![auth](https://github.com/Issatonk/Issatonk/raw/master/src/Auction/Auth.png)
